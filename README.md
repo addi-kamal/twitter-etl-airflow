@@ -40,7 +40,12 @@ The code is now available on Airflow bucket and runing on Google Cloud Composer.
 
 Navigate to Airflow instance in Google Cloud Composer to monitor the collection process.
 
+![image](https://user-images.githubusercontent.com/57157566/212065072-9549d272-9be6-439c-9c53-d1015d962841.png)
 
--------screeen airflow----------
+
+Our ETL is now runing on Google Cloud Composer
+
+![image](https://user-images.githubusercontent.com/57157566/212065501-a66e2b8b-f5eb-426c-a6e7-bc708dc94679.png)
+
 
 
